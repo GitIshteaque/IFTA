@@ -1,6 +1,7 @@
 cd "C:\Users\Admin\OneDrive\Desktop\IFTA"
 python ifta_audit.py
-
+python ifta_audit_final.py
 
 pip install pandas
+
 pip install openpyxl
